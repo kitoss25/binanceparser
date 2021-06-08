@@ -1,0 +1,12 @@
+{
+  "multiplex": 3,
+  "telegram_token": "",
+  "thread_count": 20,
+  "check_candles": 4,
+  "percentage": 1.5,
+  "spoofer_timeout_minutes": 10,
+  "holding_timeout_minutes": 30,
+  "output_channel": -1,
+  "blacklist_ticker": [],
+  "stock_depth": 1000
+}

@@ -1,0 +1,15 @@
+https://api.binance.com/api/v3/klines?interval=5m&symbol=BTCUSDT&limit=2
+
+###
+
+https://fapi.binance.com/fapi/v1/ticker/24hr
+###
+
+https://fapi.binance.com/fapi/v1/exchangeInfo
+###
+
+https://api.binance.com/api/v3/depth?symbol=FIROUSDT&limit=30
+
+###
+https://api.binance.com/api/v1/exchangeInfo
+###
